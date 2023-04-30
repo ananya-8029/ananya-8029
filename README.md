@@ -23,9 +23,7 @@
  
 <table width="125" align='center'>
 <tr>
-    <td align='center' width="70">
-        <a href="https://twitter.com/Ananya"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
-    </td>
+    
     <td align='center' width="60">
         <a href="https://www.instagram.com/ananya_g2903/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
