@@ -23,11 +23,10 @@
  
 <table width="125" align='center'>
 <tr>
-    
     <td align='center' width="60">
         <a href="https://www.instagram.com/ananya_g2903/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
-    <td align='center' width="70">
+    <td align='center' width="60">
         <a href="https://www.linkedin.com/in/ananya-gupta-0706b122b"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
     </td>
 </tr>
