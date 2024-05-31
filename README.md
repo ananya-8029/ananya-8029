@@ -1,9 +1,12 @@
 ![logo](https://github.com/ananya-8029/ananya-8029/blob/main/Github%20Profile%20IMG.png)
 <h1 align="center">Hi there👋, I'm Ananya Gupta</h1>
 <h3 align="center">A Web Developer from India</h3>
+<img align="right" height="250" width="340" src="https://i.pinimg.com/originals/81/2c/22/812c229c60047ee347f778135cd76b81.gif" alt="ananya-8029"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-8029&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-8029" /> </p>
 <br>
+
 - 🌱 I’m currently learning **DSA in C++ and Full Stack Web development.**
 
 - 👨‍💻 Checkout my portfolio [http://ananya29.netlify.app/](http://ananya29.netlify.app/)
