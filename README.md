@@ -1,4 +1,3 @@
-![logo](https://github.com/ananya-8029/ananya-8029/blob/main/Github%20Profile%20IMG.png)
 <h1 align="center">Hi there👋, I'm Ananya Gupta</h1>
 <h3 align="center">A Web Developer from India</h3>
 <img align="right" height="250" width="300" src="https://i.pinimg.com/originals/81/2c/22/812c229c60047ee347f778135cd76b81.gif" alt="ananya-8029"/>
